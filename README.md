@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on:<br>“Improving my AI data labeling skills by annotating datasets for machine learning projects.”<br><br>I'm looking to collaborate on:<br>“AI labeling projects, especially ones that focus on automating data labeling for better model accuracy.”<br><br>I'm looking for help with:<br>“Building a strong GitHub profile by contributing to open-source AI labeling projects and showcasing my skills.”<br><br>I'm currently learning:<br>“Advanced AI labeling techniques, tools like Labelbox, CVAT, and Prodigy.”<br><br>Ask me about:<br>“AI labeling, dataset annotation, and tools for machine learning.”<br><br>Fun fact:<br>“I’m passionate about learning new AI tools and techniques to improve data accuracy.”
+
+Hi! I'm Sonal Bhavari, a BCA graduate passionate about Cloud Computing, DevOps, and Linux Administration. I’m actively learning and building skills in AWS, automation tools, CI/CD, and containerization (Docker & Kubernetes).
 
 
 ## 🌐 Socials:
